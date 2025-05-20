@@ -27,17 +27,11 @@ Touch the landing pad to complete the level — but be careful! Crashing into ob
 
 ---
 
-## 📽 Gameplay Demo
-
-▶️ [Watch Gameplay Demo](Gameplay/gameplay.mp4)
-
----
-
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="Gameplay/gameplay1.png" alt="Gameplay Screenshot 1" width="45%" style="margin-right: 10px;" />
-  <img src="Gameplay/gameplay2.png" alt="Gameplay Screenshot 2" width="45%" />
+  <img src="Gameplay/gameplay1.png" alt="Gameplay Screenshot 1" />
+  <img src="Gameplay/gameplay2.png" alt="Gameplay Screenshot 2" />
 </p>
 
 ---
